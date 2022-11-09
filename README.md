@@ -1,4 +1,4 @@
-[![MasterHead](https://sadiqalimir.github.io/resume/assets/img/astronaut.png)
+[![MasterHead](https://thumbs.dreamstime.com/b/planet-earth-sun-d-rendering-realistic-illustration-space-horizontal-banner-resolution-high-quality-planet-earth-sun-157701531.jpg)
 <h1 align="center">Hi 👋, I'm Sadiq Ali</h1>
 <h3 align="center">An aspiring Aerospace Engineer, passionate about space, avionics and digitalization in aerospace industry</h3>
 
