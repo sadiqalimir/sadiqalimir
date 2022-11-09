@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1Nn19LhT0T1sG6xVe7H83DJHQUFwSlsZC/view?usp=share_link)
+[![MasterHead](https://cdn.wallpapersafari.com/86/19/m3yJQK.jpg)
 <h1 align="center">Hi 👋, I'm Sadiq Ali</h1>
 <h3 align="center">An aspiring Aerospace Engineer, passionate about space, avionics and digitalization in aerospace industry</h3>
 
