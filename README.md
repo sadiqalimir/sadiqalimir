@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.wallpapersafari.com/86/19/m3yJQK.jpg)
+[![MasterHead](https://sadiqalimir.github.io/resume/assets/img/astronaut.png)
 <h1 align="center">Hi 👋, I'm Sadiq Ali</h1>
 <h3 align="center">An aspiring Aerospace Engineer, passionate about space, avionics and digitalization in aerospace industry</h3>
 
