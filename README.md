@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sadiq Ali</h1>
 <h3 align="center">An aspiring Aerospace Engineer, passionate about space, avionics and digitalization in aerospace industry</h3>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/9M1S2MyeQ-4AAAAC/tenor.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqalimir&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqalimir" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/astrosadiqali" target="blank"><img src="https://img.shields.io/twitter/follow/astrosadiqali?logo=twitter&style=for-the-badge" alt="astrosadiqali" /></a> </p>
 
