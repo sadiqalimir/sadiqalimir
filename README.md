@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/astrosadiqali" target="blank"><img src="https://img.shields.io/twitter/follow/astrosadiqali?logo=twitter&style=for-the-badge" alt="astrosadiqali" /></a> </p>
 
-- 🔭 I’m currently working on **eVTOL**
+- 🔭 I’m currently working on **MQ-23**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Aerodynamics and Machine learning**
 
 
 <h3 align="left">Languages and Tools:</h3>
