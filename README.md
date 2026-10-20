@@ -1,33 +1,114 @@
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Sadiq Ali</h1>
-<h3 align="center">An aspiring Aerospace Engineer, passionate about space, avionics and digitalization in aerospace industry</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0B1D3A,100:1E3A8A&height=220&section=header&text=YOUR%20NAME&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20%E2%80%A2%20Astronaut%20Candidate%20%E2%80%A2%20Aerospace%20Systems%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3500&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Founder+%26+CEO+%40+Zephyra+Dynamics+%F0%9F%9A%80;Astronaut+Candidate+%F0%9F%A7%91%E2%80%8D%F0%9F%9A%80;Research+Associate+%40+IIT+Roorkee+%F0%9F%94%AC;NSS+30+Under+30+Honoree+%F0%9F%8F%86;Building+the+future+of+air+%26+space+mobility" alt="Typing SVG" />
 
+<br/>
 
-<p align="left"> <a href="https://twitter.com/astrosadiqali" target="blank"><img src="https://img.shields.io/twitter/follow/astrosadiqali?logo=twitter&style=for-the-badge" alt="astrosadiqali" /></a> </p>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://YOUR-ZEPHYRA-WEBSITE.com"><img src="https://img.shields.io/badge/Zephyra%20Dynamics-1E3A8A?style=for-the-badge&logo=rocket&logoColor=white"/></a>
+<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
-- 🔭 I’m currently working on **MQ-23**
+</div>
 
-- 🌱 I’m currently learning **Aerodynamics and Machine learning**
+---
 
+## 🛰️ Mission Brief
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+> *"Bridging engineering rigor with real-world impact — from concept to orbit."*
 
+I'm an **Aerospace Engineer** with a strong focus on **systems engineering**, driven by the challenge of building complex, high-impact aerospace systems from concept to realisation.
 
-<h3 align="left">Connect with me:</h3>
+I'm deeply excited about the role of **eVTOL platforms** in shaping sustainable aviation and redefining urban mobility, and about advancing space technology through **reusable launch vehicles**. I work at the intersection of design, systems thinking and innovation to contribute to the next generation of air and space transportation.
+
+---
+
+## 🚀 Current Missions
+
+| | Role | Organisation |
+|:-:|:--|:--|
+| 🔴 **PRIORITY** | **Founder & CEO** | **Zephyra Dynamics** |
+| 🧑‍🚀 | Astronaut Candidate | *Program name* |
+| 🔬 | Research Associate | Indian Institute of Technology Roorkee (IITR) |
+| 🏆 | Honoree | NSS 30 Under 30 |
+
+---
+
+## 🌌 Zephyra Dynamics — Flagship Mission
+
 <p align="left">
-<a href="https://twitter.com/astrosadiqali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="astrosadiqali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sadiqalimir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadiqalimir" height="30" width="40" /></a>
-<a href="https://fb.com/astrosadiqaly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="astrosadiqaly" height="30" width="40" /></a>
-<a href="https://instagram.com/astrosadiqali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="astrosadiqali" height="30" width="40" /></a>
-<a href="https://discord.gg/4058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4058" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Status-Active%20Development-22C55E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Domain-Aerospace-1E3A8A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Sustainable%20Mobility-60A5FA?style=flat-square"/>
 </p>
 
+As founder of **Zephyra Dynamics**, I lead the vision of building next-generation aerospace systems that are sustainable, scalable and mission-ready.
 
+- 🛩️ **Vision:** *One line on what Zephyra is building*
+- ⚙️ **Approach:** Systems-first engineering, from requirements to flight
+- 🌍 **Impact:** Cleaner, faster, more accessible air and space transportation
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiqalimir&show_icons=true&locale=en&layout=compact" alt="sadiqalimir" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadiqalimir&show_icons=true&locale=en" alt="sadiqalimir" /></p>
+## 🔭 Focus Orbits
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqalimir&" alt="sadiqalimir" /></p>
+```yaml
+mission_focus:
+  - Systems Engineering (MBSE, requirements, V&V)
+  - eVTOL & Urban Air Mobility
+  - Reusable Launch Vehicles
+  - Human Spaceflight & Astronaut Training
+  - Aerospace Design & Innovation
+```
+
+---
+
+## 🛠️ Flight Toolkit
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Simulink-E16737?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CATIA-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SysML%20%2F%20MBSE-4B5563?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 🏆 Mission Log
+
+```text
+[ T+ NOW ]  🚀  Founder & CEO — Zephyra Dynamics
+[ T+ ---- ] 🧑‍🚀  Selected as Astronaut Candidate
+[ T+ ---- ] 🏆  Recognised in NSS 30 Under 30
+[ T+ ---- ] 🔬  Research Associate — IIT Roorkee
+[ T- 0    ] 🎓  Aerospace Engineering
+```
+
+---
+
+## 📡 Telemetry
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1D3A&title_color=60A5FA&icon_color=60A5FA&text_color=E5E7EB"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=0B1D3A&ring=60A5FA&fire=F97316&currStreakLabel=60A5FA"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌠 *"Per aspera ad astra — through hardships to the stars."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:0B1D3A,100:000000&height=120&section=footer" width="100%"/>
+
+</div>
